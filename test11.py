@@ -48,5 +48,3 @@ output_file.write("difference"+str(difference))
 input_file.close()
 output_file.close()
         
-
-
